@@ -1,5 +1,5 @@
 applications:
-- name: articulate
+- name: articulateA
   path: target/articulate-1.0.jar
   memory: 1G
   random-route: true
